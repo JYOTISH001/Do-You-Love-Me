@@ -1,0 +1,6 @@
+{
+  "name": "Forever & Always — A Romantic Love Story",
+  "description": "A premium, interactive, romantic microsite for someone special with playful interactions, love letter, memory gallery, and cinematic animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
